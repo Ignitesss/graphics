@@ -1,0 +1,22 @@
+D:\Documents\Мехмат_учебники_инфа_остальное\Полезные ссылки\KG\КГ\computer_graphics\ind2\RayTracing\bin\Debug\RayTracing.exe.config
+D:\Documents\Мехмат_учебники_инфа_остальное\Полезные ссылки\KG\КГ\computer_graphics\ind2\RayTracing\bin\Debug\RayTracing.exe
+D:\Documents\Мехмат_учебники_инфа_остальное\Полезные ссылки\KG\КГ\computer_graphics\ind2\RayTracing\bin\Debug\RayTracing.pdb
+D:\Documents\Мехмат_учебники_инфа_остальное\Полезные ссылки\KG\КГ\computer_graphics\ind2\RayTracing\obj\Debug\RayTracing.csproj.AssemblyReference.cache
+D:\Documents\Мехмат_учебники_инфа_остальное\Полезные ссылки\KG\КГ\computer_graphics\ind2\RayTracing\obj\Debug\RayTracing.csproj.SuggestedBindingRedirects.cache
+D:\Documents\Мехмат_учебники_инфа_остальное\Полезные ссылки\KG\КГ\computer_graphics\ind2\RayTracing\obj\Debug\RayTracing.Form1.resources
+D:\Documents\Мехмат_учебники_инфа_остальное\Полезные ссылки\KG\КГ\computer_graphics\ind2\RayTracing\obj\Debug\RayTracing.Properties.Resources.resources
+D:\Documents\Мехмат_учебники_инфа_остальное\Полезные ссылки\KG\КГ\computer_graphics\ind2\RayTracing\obj\Debug\RayTracing.csproj.GenerateResource.cache
+D:\Documents\Мехмат_учебники_инфа_остальное\Полезные ссылки\KG\КГ\computer_graphics\ind2\RayTracing\obj\Debug\RayTracing.csproj.CoreCompileInputs.cache
+D:\Documents\Мехмат_учебники_инфа_остальное\Полезные ссылки\KG\КГ\computer_graphics\ind2\RayTracing\obj\Debug\RayTracing.exe
+D:\Documents\Мехмат_учебники_инфа_остальное\Полезные ссылки\KG\КГ\computer_graphics\ind2\RayTracing\obj\Debug\RayTracing.pdb
+D:\Documents\Мехмат_учебники_инфа_остальное\4 курс\Комп графика (экз)\Практика_КГ\Индив\Indiv3\RayTracing\bin\Debug\RayTracing.exe.config
+D:\Documents\Мехмат_учебники_инфа_остальное\4 курс\Комп графика (экз)\Практика_КГ\Индив\Indiv3\RayTracing\bin\Debug\RayTracing.exe
+D:\Documents\Мехмат_учебники_инфа_остальное\4 курс\Комп графика (экз)\Практика_КГ\Индив\Indiv3\RayTracing\bin\Debug\RayTracing.pdb
+D:\Documents\Мехмат_учебники_инфа_остальное\4 курс\Комп графика (экз)\Практика_КГ\Индив\Indiv3\RayTracing\obj\Debug\RayTracing.csproj.AssemblyReference.cache
+D:\Documents\Мехмат_учебники_инфа_остальное\4 курс\Комп графика (экз)\Практика_КГ\Индив\Indiv3\RayTracing\obj\Debug\RayTracing.csproj.SuggestedBindingRedirects.cache
+D:\Documents\Мехмат_учебники_инфа_остальное\4 курс\Комп графика (экз)\Практика_КГ\Индив\Indiv3\RayTracing\obj\Debug\RayTracing.Form1.resources
+D:\Documents\Мехмат_учебники_инфа_остальное\4 курс\Комп графика (экз)\Практика_КГ\Индив\Indiv3\RayTracing\obj\Debug\RayTracing.Properties.Resources.resources
+D:\Documents\Мехмат_учебники_инфа_остальное\4 курс\Комп графика (экз)\Практика_КГ\Индив\Indiv3\RayTracing\obj\Debug\RayTracing.csproj.GenerateResource.cache
+D:\Documents\Мехмат_учебники_инфа_остальное\4 курс\Комп графика (экз)\Практика_КГ\Индив\Indiv3\RayTracing\obj\Debug\RayTracing.csproj.CoreCompileInputs.cache
+D:\Documents\Мехмат_учебники_инфа_остальное\4 курс\Комп графика (экз)\Практика_КГ\Индив\Indiv3\RayTracing\obj\Debug\RayTracing.exe
+D:\Documents\Мехмат_учебники_инфа_остальное\4 курс\Комп графика (экз)\Практика_КГ\Индив\Indiv3\RayTracing\obj\Debug\RayTracing.pdb
